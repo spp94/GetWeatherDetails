@@ -1,4 +1,4 @@
-$(document).ready(function (){
+$(document).ready(function (){ 
     // function for on click of submit button to fetch weather data
     $("#btnSubmit").click(function () {
         getWeather(); // calling getWeather function, to fetch all the weather report for a city
